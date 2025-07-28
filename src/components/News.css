@@ -1,0 +1,29 @@
+.subscribe {
+  background-color: #d9ece6;
+  padding-top: 20px;
+  margin-top: 3%;
+}
+.subscribe input {
+  width: 35%;
+  height: 35px;
+  border-radius: 17px;
+  background-color: #d9d9d9;
+  margin: 20px;
+  border: none;
+  box-shadow: 2px 2px 3px black;
+}
+
+.subscribe button {
+  background-color: #ec4fb2;
+  border-radius: 17px;
+  margin: 15px;
+  padding: 8px;
+  width: 6%;
+
+  border: none;
+  box-shadow: 2px 2px 3px black;
+}
+.subscribe button:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}

@@ -1,0 +1,7 @@
+.horizontal {
+  content: "";
+  height: 25px;
+  width: 80%;
+  margin-left: 10%;
+  background-color: #e8ecd9;
+}

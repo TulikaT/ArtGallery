@@ -1,0 +1,14 @@
+.cards {
+  margin: 5px;
+  padding: 7px;
+}
+.cards img {
+  width: 180px;
+  height: 180px;
+  border-radius: 22px;
+  margin: 5px;
+}
+
+h2 {
+  margin: 20px 0;
+}
